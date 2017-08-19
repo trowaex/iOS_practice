@@ -1,0 +1,6 @@
+framework module Pods_uber_practice {
+  umbrella header "Pods-uber-practice-umbrella.h"
+
+  export *
+  module * { export * }
+}
